@@ -8,8 +8,7 @@ There were a few:
 -Consolidate CSS selectors and properties
 -Organize CSS selectors and properties to follow the semantic structure of the HTML elements
 
-
-
+![Screenshot 2022-08-17 012550](https://user-images.githubusercontent.com/109486620/185071599-09485f9b-a3d5-4e32-b369-eec7c39640bb.png)
 
 References Utilized
 https://www.w3schools.com/html/html5_semantic_elements.asp
